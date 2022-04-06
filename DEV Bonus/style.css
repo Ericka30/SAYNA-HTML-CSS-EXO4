@@ -1,0 +1,80 @@
+
+body{
+    margin: 0px;
+}
+header{
+    background-color: #b11313;
+    text-align: center;
+    display: flex;
+    color: white;
+}
+ .menu{
+     justify-content: space-between;
+     text-decoration: none;
+     color: white;
+     text-align: center;
+     padding-left: 20px;
+}
+.lien{
+    padding-left: 20px;
+}
+.head{
+    display: flex;
+}
+h1{
+    font-family: batman;
+}
+.logo{
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.o{
+    margin-right: 40px;
+    padding-right: 48px;
+    color: #ffffff;
+    text-decoration: none;
+}
+/*image*/
+.écrit{
+    padding-left: 10px;
+    float: inline-start;
+    color: #ffffff;
+    padding-top: 500px;
+    top: 400px;
+}
+section{
+    background-image:url(./Illustration/img35.png) ;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 600px;
+}
+footer{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: ;
+}
+.foot{
+    margin-left: 18px;
+    float: inline-start;
+    color: #ffffff;
+    padding-right: 20px;
+    text-decoration: none;
+    padding-left: 10px;
+}
+.logo{
+    justify-content: center;
+    padding-left: 100px;
+
+}
+.ter{
+    margin-top: 100PX;
+    color: #ffffff;
+    padding-right: 40px;
+    text-decoration: none;
+}
+
+
+
